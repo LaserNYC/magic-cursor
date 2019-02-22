@@ -157,7 +157,7 @@ var MagicCursor = (function() {
 
 	return {
 		init: function(settings){
-			if (window.innerWidth > 1025 && !initialized) {
+			if (window.innerWidth > 767 && !initialized) {
 				// if there's no canvas, build it
 				if (!canvasBuilt){
 					canvas = document.createElement('canvas');
