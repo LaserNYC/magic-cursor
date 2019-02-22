@@ -125,7 +125,7 @@ var MagicCursor = (function() {
 		drawPoints();
 
 		// if currently looping, stop for tablet size and smaller
-		if (window.innerWidth < 1025){
+		if (window.innerWidth < 767){
 			destroyCursor();
 			return;
 		}
