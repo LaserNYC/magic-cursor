@@ -1,4 +1,4 @@
 # magic-cursor
 Canvas mouse cursor that emulates the effect of Tinkerbell's wand
 
-https://lasernyc.github.io/magic-cursor/
+https://davelaser2.github.io/magic-cursor/
